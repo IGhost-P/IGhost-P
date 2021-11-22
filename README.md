@@ -22,7 +22,7 @@ const IGhost-P = {
                         major-study: "Jurassic"
                       },
   currentFocus: "Front-End Development",
- develop-Motto: "Talk is cheap. Show me the code."
+  developMotto: "Talk is cheap. Show me the code."
 }
 ```
 
