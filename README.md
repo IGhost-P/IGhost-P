@@ -1,6 +1,6 @@
 <h2> Hi, I'm Sang Woo Yang! 👻 </h2>
 <img align='right' src="https://avatars.githubusercontent.com/u/79236624?v=4" width="180">
-<p><em> learning ForntEnd at <a href="https://www.jejunu.ac.kr/main">University of Jeju </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> FE part at <a href="https://www.thoughtworks.com">Team Brakio </a><img src="브라키오" width="30"> 
+<p><em> learning ForntEnd at <a href="https://www.jejunu.ac.kr/main">University of Jeju </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> FE part at <a href="https://www.thoughtworks.com">Team Brakio </a><img src="https://raw.githubusercontent.com/IGhost-P/IGhost-P/bae183a0ed70e597468d8c1fee71c48e6a5f2fda/%E1%84%87%E1%85%B3%E1%84%85%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%8B%E1%85%A9.svg" width="30"> 
 </em></p>
 
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@dndb3599)](https://velog.io/@dndb3599)
