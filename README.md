@@ -7,6 +7,7 @@
 [![Facebook Badge](http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&link=https://www.facebook.com/groups/535091431030592)](https://www.facebook.com/groups/535091431030592)
 [![GitHub IGHost-P](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/IGhost-P)
 
+[![IGhost-P's github stats](https://github-readme-stats.vercel.app/api?username=IGhost-P)](https://github.com/IGhost-P)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -26,8 +27,6 @@ const thai = {
  develop-Motto: "Talk is cheap. Show me the code."
 }
 ```
-
-[![IGhost-P's github stats](https://github-readme-stats.vercel.app/api?username=IGhost-P)](https://github.com/IGhost-P)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
