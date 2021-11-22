@@ -18,9 +18,8 @@ const thai = {
   tools: [React, Redux, Node, Styled-Components, Express, RN],
   architecture: ["Progressive web applications", "Single page applications", "Serverless Architecture"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        coorganizer: "Brakio",
+                        major-study: "Jurassic"
                       },
   currentFocus: "Front-End Development",
  develop-Motto: "Talk is cheap. Show me the code."
