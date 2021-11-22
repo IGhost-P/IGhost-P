@@ -7,8 +7,6 @@
 [![Facebook Badge](http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&link=https://www.facebook.com/groups/535091431030592)](https://www.facebook.com/groups/535091431030592)
 [![GitHub IGHost-P](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/IGhost-P)
 
-[![IGhost-P's github stats](https://github-readme-stats.vercel.app/api?username=IGhost-P)](https://github.com/IGhost-P)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
