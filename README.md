@@ -19,7 +19,7 @@ const IGhost-P = {
   architecture: ["Progressive web applications", "Single page applications", "Serverless Architecture"],
   techCommunities: {
                         coorganizer: "Brakio",
-                        major-study: "Jurassic"
+                        majorStudy: "Jurassic"
                       },
   currentFocus: "Front-End Development",
   developMotto: "Talk is cheap. Show me the code."
