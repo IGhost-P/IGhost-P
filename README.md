@@ -1,9 +1,9 @@
-<h2> Hi, I'm Sang Woo Yang! <img src="https://avatars.githubusercontent.com/u/79236624?v=4" width="50"></h2>
+<h2> Hi, I'm Sang Woo Yang! 👻 </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em> learning ForntEnd at <a href="https://www.jejunu.ac.kr/main">University of Jeju</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> FE part at <a href="https://www.thoughtworks.com">Team Brakio</a><img src="./img/브라키오.svg" width="30"> 
+<p><em> learning ForntEnd at <a href="https://www.jejunu.ac.kr/main">University of Jeju</a><img src="https://avatars.githubusercontent.com/u/79236624?v=4" width="30"></br> FE part at <a href="https://www.thoughtworks.com">Team Brakio</a><img src="./img/브라키오.svg" width="30"> 
 </em></p>
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@dndb3599)](https://velog.io/@dndb3599)
-[![Facebook Badge](http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&link=https://www.facebook.com/groups/535091431030592](https://www.facebook.com/groups/535091431030592)
+[![Facebook Badge](http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&link=https://www.facebook.com/groups/535091431030592)](https://www.facebook.com/groups/535091431030592)
 [![GitHub IGHost-P](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/IGhost-P)
 
 
