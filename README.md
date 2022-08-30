@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const IGhost-P = {
+const Dan = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, C++, Sql],
   askMeAbout: ["web dev", "FE", "Univ-slave", "healthChang"],
