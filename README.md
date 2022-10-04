@@ -15,7 +15,7 @@ const Dan = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, C++, Sql],
   askMeAbout: ["web dev", "FE", "Univ-slave", "healthChang"],
-  tools: [React, Redux, Node, Styled-Components, Express, RN, NextJS],
+  tools: [React, Redux, Node, Styled-Components, Express, RN, NextJS, Jest],
   architecture: ["Progressive web applications", "Single page applications", "Serverless Architecture"],
   techCommunities: {
                         coorganizer: "Brakio",
