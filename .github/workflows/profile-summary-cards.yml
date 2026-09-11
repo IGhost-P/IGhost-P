@@ -1,0 +1,23 @@
+name: GitHub profile summary cards
+
+on:
+  schedule:
+    # Runs daily at 01:00 UTC (10:00 KST)
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate profile summary cards
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: IGhost-P
+          BRANCH_NAME: main
+          UTC_OFFSET: 9
