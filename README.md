@@ -3,6 +3,7 @@
 <p><em> learning ForntEnd at <a href="https://www.jejunu.ac.kr/main">University of Jeju </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> FE part at <a href="https://admitted-morocco-a49.notion.site/ee5ba57e2fdf48feb4e84475653b0e28">Team Brakio </a><img src="https://raw.githubusercontent.com/IGhost-P/IGhost-P/bae183a0ed70e597468d8c1fee71c48e6a5f2fda/%E1%84%87%E1%85%B3%E1%84%85%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%8B%E1%85%A9.svg" width="30"> 
 </em></p>
 
+[![Blog Badge](https://img.shields.io/badge/Blog-blog.swyang.dev-0f172a?style=flat)](https://blog.swyang.dev)
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@dndb3599)](https://velog.io/@dndb3599)
 [![Facebook Badge](http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&link=https://www.facebook.com/groups/535091431030592)](https://www.facebook.com/groups/535091431030592)
 [![GitHub IGHost-P](https://img.shields.io/github/followers/IGhost-P?label=follow&style=social)](https://github.com/IGhost-P)
