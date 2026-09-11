@@ -22,4 +22,4 @@ jobs:
           feed_list: "https://blog.swyang.dev/feed.xml"
           max_post_count: 5
           date_format: "yyyy-mm-dd"
-          template: "- [$title]($url) — $date $newline"
+          template: "$newline- [$title]($url) — $date"
