@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 430" font-family="'SF Mono','Fira Code','JetBrains Mono',Menlo,Consolas,monospace">
+  <style>
+    .cursor { animation: blink 1.1s step-end infinite; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    .prompt { fill: #22c55e; }
+    .cmd { fill: #e6edf3; }
+    .dim { fill: #8b949e; }
+    .accent { fill: #5eead4; }
+    .link { fill: #79c0ff; }
+  </style>
+
+  <!-- window -->
+  <rect x="1.5" y="1.5" width="877" height="427" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <!-- title bar -->
+  <path d="M1.5 15.5 A14 14 0 0 1 15.5 1.5 H864.5 A14 14 0 0 1 878.5 15.5 V44 H1.5 Z" fill="#161b22"/>
+  <line x1="1.5" y1="44" x2="878.5" y2="44" stroke="#30363d" stroke-width="1"/>
+  <circle cx="26" cy="23" r="6.5" fill="#ff5f57"/>
+  <circle cx="48" cy="23" r="6.5" fill="#febc2e"/>
+  <circle cx="70" cy="23" r="6.5" fill="#28c840"/>
+  <text x="440" y="28" text-anchor="middle" font-size="13" class="dim">sangwoo@nexon: ~ (zsh)</text>
+
+  <!-- $ whoami -->
+  <g class="line">
+    <text x="36" y="92" font-size="16"><tspan class="prompt">$</tspan><tspan dx="10" class="cmd">whoami</tspan></text>
+  </g>
+  <g class="line">
+    <text x="36" y="138" font-size="34" font-weight="700" fill="#f0f6fc">Sang Woo Yang <tspan fill="#8b949e" font-weight="400">(Dan)</tspan></text>
+  </g>
+  <g class="line">
+    <text x="36" y="172" font-size="17" class="accent">Software Engineer / Game Developer @ NEXON KOREA</text>
+  </g>
+  <g class="line">
+    <text x="36" y="200" font-size="14.5" class="dim">ex-Kakao · ex-Danbi Edu (단비교육)</text>
+  </g>
+
+  <!-- $ cat motto.txt -->
+  <g class="line">
+    <text x="36" y="248" font-size="16"><tspan class="prompt">$</tspan><tspan dx="10" class="cmd">cat motto.txt</tspan></text>
+  </g>
+  <g class="line">
+    <text x="36" y="278" font-size="15" font-style="italic" class="dim">"Talk is cheap. Show me the code."</text>
+  </g>
+
+  <!-- $ ls ~/building -->
+  <g class="line">
+    <text x="36" y="326" font-size="16"><tspan class="prompt">$</tspan><tspan dx="10" class="cmd">ls ~/building</tspan></text>
+  </g>
+  <g class="line">
+    <text x="36" y="358" font-size="15">
+      <tspan class="link">blog.swyang.dev/</tspan>
+      <tspan dx="18" class="link">maeil.swyang.dev/</tspan>
+      <tspan dx="18" class="link">homelab-k3s/</tspan>
+      <tspan dx="18" class="dim">ai-agents/</tspan>
+    </text>
+  </g>
+
+  <!-- prompt + cursor -->
+  <g class="line">
+    <text x="36" y="398" font-size="16"><tspan class="prompt">$</tspan></text>
+    <rect x="58" y="384" width="10" height="18" fill="#5eead4" class="cursor"/>
+  </g>
+</svg>
