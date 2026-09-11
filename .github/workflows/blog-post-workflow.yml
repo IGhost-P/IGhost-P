@@ -1,0 +1,25 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    # Runs daily at 00:00 UTC (09:00 KST)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull blog posts from feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.swyang.dev/feed.xml"
+          max_post_count: 5
+          date_format: "yyyy-mm-dd"
+          template: "- [$title]($url) — $date $newline"
